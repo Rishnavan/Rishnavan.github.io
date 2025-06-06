@@ -3,11 +3,11 @@ html, body {
   width: 100%;
   margin: 0;
   padding: 0;
+  background: #3eb53e;
   font-family: Comic Sans MS, Comic Sans, cursive;
 }
 
 .container {
-  background: #3eb53e;
   max-width: 1200px;
   margin: 5px;
   text-align: left;
@@ -70,7 +70,7 @@ button {
   margin: 10px 0;
   cursor: pointer;
   font-family: Comic Sans MS, Comic Sans, cursive;
-  fill: #51b5b2;
+  background: #51b5b2;
   color: blue;
   border: black;
   border-radius: 4px;
