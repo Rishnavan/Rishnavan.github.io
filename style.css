@@ -69,10 +69,10 @@ button {
   font-size: 16px;
   margin: 10px 0;
   cursor: pointer;
-  font-family: serif
+  font-family: Comic Sans MS, Comic Sans, cursive;
   fill: #51b5b2;
   color: blue;
-  border: none;
+  border: black;
   border-radius: 4px;
   display: block;
 }
